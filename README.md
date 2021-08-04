@@ -1,6 +1,6 @@
 # CHALLENGE QA WRITTEN TEST
 
-This challenge is submission Flick Software.
+This challenge is submission for Flick Software QA recruitement.
 Submitted by Saarah Firdausy at 8/4/2021
 Wish me luck^^
 
