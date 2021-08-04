@@ -44,7 +44,7 @@ Performance testing is a type of non-functional testing, carried out to determin
 > The document example will be explained as I answer `Q4 Bug Report` question. Bear with me please.
 
 *Status or Bug Journey*
-The status can be vary depends on team aggreement. But the basic one is `Open`, `Assigned`, `Deferred`, `Resolved`, `Reopen`, and `Closed` as you can see below
+The status name can be vary depends on team aggreement. But the basic one is `Open`, `Assigned`, `Deferred`, `Resolved`, `Reopen`, and `Closed` as you can see below
 
 ![bug journey](./assets/bugjourney.png)
 
@@ -79,10 +79,8 @@ Okay so first thing first I explore this publicAPI. I go to https://github.com/d
 
 ----
 *his github repo looked like this*
-## Services
 ### **GET** /entries
-
-*List all entries currently cataloged in the project*
+List all entries currently cataloged in the project
 
 #### Parameters
 Parameter | Type | Data Type | Description | Required
@@ -94,12 +92,11 @@ Parameter | Type | Data Type | Description | Required
 | cors | query | string | CORS support for entry ("yes", "no", or "unknown") | No |
 | category | query | string | return entries of a specific category | No |
 
-> For categories like "Science & Math" which have a space and an ampersand, the query is simply the first word. Using "Science & Math" as an example, the correct query would be `category=science`
-
 ### **GET** /categories
+List all categories
+For categories like "Science & Math" which have a space and an ampersand, the query is simply the first word. Using "Science & Math" as an example, the correct query would be `category=science`
 
-*List all categories*
-
+*end of his github repo*
 ---
 
 >ok, now we know hot to send request to GET. Let me introduce you to postman. Here we acknowledge that GET requests are used to retrieve information from the given URL.
