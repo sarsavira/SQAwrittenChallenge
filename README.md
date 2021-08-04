@@ -116,6 +116,78 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 ![GET-animals](./assets/get-animals.png)
 
 >voila, 17 data entries available of `category=animals`
+>and the same way for `description holiday`
+
+```js
+{
+    "count": 7,
+    "entries": [
+        {
+            "API": "Abstract Public Holidays",
+            "Description": "Data on national, regional, and religious holidays via API",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://www.abstractapi.com/holidays-api",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Calendar Index",
+            "Description": "Worldwide Holidays and Working Days",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://www.calendarindex.com/",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Hebrew Calendar",
+            "Description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+            "Auth": "",
+            "HTTPS": false,
+            "Cors": "unknown",
+            "Link": "https://www.hebcal.com/home/developer-apis",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Holidays",
+            "Description": "Historical data regarding holidays",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://holidayapi.com/",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Nager.Date",
+            "Description": "Public holidays for more than 90 countries",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "no",
+            "Link": "https://date.nager.at",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Russian Calendar",
+            "Description": "Check if a date is a Russian holiday or not",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "no",
+            "Link": "https://github.com/egno/work-calendar",
+            "Category": "Calendar"
+        },
+        {
+            "API": "UK Bank Holidays",
+            "Description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://www.gov.uk/bank-holidays.json",
+            "Category": "Calendar"
+        }
+    ]
+}
+```
 
 ---
 
