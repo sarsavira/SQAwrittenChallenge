@@ -50,7 +50,7 @@ The status can be vary depends on team aggreement. But the basic one is `Open`, 
 
 ---
 
-### Q3 Create a test scenario which has multiple test cases for the following features:
+## Q3 Create a test scenario which has multiple test cases for the following features:
 
 * As a user, I want to create a public gist.
 * As a user, I want to edit an existing gist.
