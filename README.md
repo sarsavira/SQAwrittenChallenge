@@ -1,11 +1,12 @@
 # CHALLENGE QA WRITTEN TEST
 
-This challenge is for submission Flick Software.
-Submit by Saarah Firdausy at 8/4/2021
+This challenge is submission Flick Software.
+Submitted by Saarah Firdausy at 8/4/2021
+Wish me luck^^
 
 ## Q1  What do you know about functional testing, integration testing, and performance testing / load testing ?
 
-> Okay, so i know this question only asking three types of testing. Let me give you the whole picture. Software testing can be broken out into two different types: functional and non-functional testing. And integration testing is part of functional testing. Why? Check out below.
+> Okay, so i know this question only asking three types of testing. But let me give you the whole picture. Software testing can be broken out into two different types: functional and non-functional testing. Integration testing is part of functional testing, while performance testing is part of non-functional testing. Why? Check out below.
 
 ### a. Functional Testing
 Functional testing is carried out to check the business-critical features, functionality, and usability. Functional testing ensures that software features and functionalities are behaving as expected without any glitch. It mainly validates the entire application against specifications mentioned in the Software Requirement Specification (SRS) document. Types of functional tests include unit testing, interface testing, regression testing, sanity testing, and many.
@@ -15,21 +16,19 @@ Unit testing focuses on testing individual parts/units of a software application
 
 #### Integration Testing
 Integration testing involves testing different modules of a software application as a group. A software application is made up of different submodules that work together for different functionalities. The purpose of integration testing is to validate the integration of different modules together and identify the bugs and issues related to them.
-
  
 ### b. Non-functional Testing
 Non-functional testing, unlike functional testing, is to check that those functions work under load to observer performance, reliability, usability, scalability, etc. Non-functional testing, such as load and stress testing, is typically carried out using automation tools and solutions. In addition to performance testing, types of non-functional testing include stress testing, installation testing, reliability testing, and security testing.
 
- 
 #### Performance Testing
 Performance testing is a type of non-functional testing, carried out to determine the speed, stability, and scalability of a software application. As the name suggests, the overall goal of this testing is to check the performance of an application against the different system and network benchmarks such as CPU utilization, page load speed, peak traffic handling, server resource utilization, etc. Within performance testing, there are several other testing types, such as load testing and stress testing.
 
 ---
 
 ## Q2 What do you do if you find bugs / application crashes during testing ?
-> Of course, raise the bug. But seems this question is exploring the knowledge of how to pass this bug information to development team. Sure, let me introduce you to Bug Report. In the simplest way bug report explain 'This is what we have, this is what we should have instead, so fix it' to the developer.
+> Of course, `raise the bug`. But seems this question is exploring the knowledge of how to pass this bug information to development team. Sure, let me introduce you to Bug Report. In the simplest way explanation, bug report is document that shout out 'This is what we have, this is what we should have instead, so fix it' to the developer.
 
-### Bug report 
+### Bug report structure
 | Parameter | Description |
 | --- | --- |
 | Bug ID | Unique Identifier |
@@ -42,7 +41,7 @@ Performance testing is a type of non-functional testing, carried out to determin
 | Severity | How bad |
 | Priority | How urgent |
 | Status | Will be explain in diagram below |
-> The document example will be explained as I answer `Q4 Bug Report` question
+> The document example will be explained as I answer `Q4 Bug Report` question. Bear with me please.
 
 *Status or Bug Journey*
 The status can be vary depends on team aggreement. But the basic one is `Open`, `Assigned`, `Deferred`, `Resolved`, `Reopen`, and `Closed` as you can see below
