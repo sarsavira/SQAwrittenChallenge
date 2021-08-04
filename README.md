@@ -116,7 +116,7 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 ![GET-animals](./assets/get-animals.png)
 
 >voila, 17 data entries available of `category=animals`
->and the same way for `description holiday`
+>>and do the same way for `description holiday` we get
 
 ```json
 {
