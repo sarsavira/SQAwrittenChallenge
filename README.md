@@ -97,6 +97,7 @@ List all categories
 For categories like "Science & Math" which have a space and an ampersand, the query is simply the first word. Using "Science & Math" as an example, the correct query would be `category=science`
 
 *end of his github repo*
+
 ---
 
 >ok, now we know hot to send request to GET. Let me introduce you to postman. Here we acknowledge that GET requests are used to retrieve information from the given URL.
