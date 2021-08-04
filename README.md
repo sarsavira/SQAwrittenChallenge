@@ -57,7 +57,7 @@ The status can be vary depends on team aggreement. But the basic one is `Open`, 
 * As a user, I want to delete an existing gist.
 The test cases should include as much detail as possible.
 
-Here you go check this link > ![Gitst Test Cases](https://docs.google.com/spreadsheets/d/1v3jSPo4d1-t011l2KXPyZsiYR9apg5hlBq4CVyVstyg/edit?usp=sharing)
+Here you go check this link > [Gitst Test Cases](https://docs.google.com/spreadsheets/d/1v3jSPo4d1-t011l2KXPyZsiYR9apg5hlBq4CVyVstyg/edit?usp=sharing)
 
 ---
 
@@ -65,7 +65,7 @@ Here you go check this link > ![Gitst Test Cases](https://docs.google.com/spread
 
 > Trivia: You might wonder, why a bug is called a bug? Well it is because the term bug, describing a software error or failure goes way back to 1945. In late 1945, at the University of Harvard, a technical team found something unusual between points in Relay70. They found a real dead bug (the animal) which caused an error.
 
-Here, the ![Bug Report](https://docs.google.com/spreadsheets/d/1KUyIDTxytCra2WVUkgm4ng4qlWmnbtDbs1pmYt5Dr8s/edit?usp=sharing)
+Here, the [Bug Report](https://docs.google.com/spreadsheets/d/1KUyIDTxytCra2WVUkgm4ng4qlWmnbtDbs1pmYt5Dr8s/edit?usp=sharing)
 
 ---
 
