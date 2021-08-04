@@ -198,4 +198,4 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 * Enter all required fields (cover only positive cases) and register your account 
 
 Here the [repo](https://github.com/sarsavira/facebook)
-Unfortunately, Facebook does not allow us to get the right selector for registration field. For the second thought, I am sure this is because they prevent us for doing bot-anonymous registration.
+>Unfortunately, Facebook does not allow us to get the right selector for registration field. For the second thought, I am sure this is because they prevent us for doing bot-anonymous registration.
