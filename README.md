@@ -168,7 +168,7 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 
 ## Q4 Create an automation script using any framework of your choice for the below scenario:
 
-* Go to https://facebook.com 
+* Go to https://www.cermati.com/gabung 
 * Enter all required fields (cover only positive cases) and register your account 
 
 Here the [repo](https://github.com/sarsavira/cermati)
