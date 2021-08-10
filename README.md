@@ -1,6 +1,6 @@
 # CHALLENGE QA WRITTEN TEST
 
-This challenge is submission for Cermati QA recruitement.
+This challenge is submission for QA recruitement.
 Submitted by Saarah Firdausy at 8/10/2021
 Wish me luck^^
 
