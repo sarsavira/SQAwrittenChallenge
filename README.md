@@ -46,7 +46,7 @@ Performance testing is a type of non-functional testing, carried out to determin
 *Status or Bug Journey*
 The status name can be vary depends on team aggreement. But the basic one is `Open`, `Assigned`, `Deferred`, `Resolved`, `Reopen`, and `Closed` as you can see below
 
-![bug journey](./assets/bugjourney.png)
+![bug journey](./bugjourney.png)
 
 ---
 
@@ -103,7 +103,7 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 
 >ok, now we know hot to send request to GET. Let me introduce you to postman. Here we acknowledge that GET requests are used to retrieve information from the given URL.
 
-![GET request](./assets/get.png)
+![GET request](./get.png)
 
 
 >we know the parameter we need is `category` of animals
@@ -114,7 +114,7 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 3. Click Send
 4. The results in the body are shown at the bottom
 
-![GET-animals](./assets/get-animals.png)
+![GET-animals](./get-animals.png)
 
 >voila, 17 data entries available of `category=animals`
 >>and do the same way for `description holiday` we get
