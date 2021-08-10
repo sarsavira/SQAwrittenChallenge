@@ -20,7 +20,6 @@ Here you go check this link > [Gitst Test Cases](https://docs.google.com/spreads
 > Trivia: You might wonder, why a bug is called a bug? Well it is because the term bug, describing a software error or failure goes way back to 1945. In late 1945, at the University of Harvard, a technical team found something unusual between points in Relay70. They found a real dead bug (the animal) which caused an error.
 
 Here, the [Bug Report](https://docs.google.com/spreadsheets/d/1KUyIDTxytCra2WVUkgm4ng4qlWmnbtDbs1pmYt5Dr8s/edit?usp=sharing)
-And also as the further example for the Q2
 
 ### Bug report structure
 | Parameter | Description |
@@ -35,7 +34,7 @@ And also as the further example for the Q2
 | Severity | How bad |
 | Priority | How urgent |
 | Status | Will be explain in diagram below |
-> The document example will be explained as I answer `Q4 Bug Report` question. Bear with me please.
+> The document I submitted also follow this structure.
 
 *Status or Bug Journey*
 The status name can be vary depends on team aggreement. But the basic one is `Open`, `Assigned`, `Deferred`, `Resolved`, `Reopen`, and `Closed` as you can see below
