@@ -1,7 +1,7 @@
 # CHALLENGE QA WRITTEN TEST
 
-This challenge is submission for Flick Software QA recruitement.
-Submitted by Saarah Firdausy at 8/4/2021
+This challenge is submission for Cermati QA recruitement.
+Submitted by Saarah Firdausy at 8/10/2021
 Wish me luck^^
 
 ## Q1  What do you know about functional testing, integration testing, and performance testing / load testing ?
@@ -197,5 +197,4 @@ For categories like "Science & Math" which have a space and an ampersand, the qu
 * Go to https://facebook.com 
 * Enter all required fields (cover only positive cases) and register your account 
 
-Here the [repo](https://github.com/sarsavira/facebook)
->Unfortunately, Facebook does not allow us to get the right selector for registration field. For the second thought, I am sure this is because they prevent us for doing bot-anonymous registration.
+Here the [repo](https://github.com/sarsavira/cermati)
